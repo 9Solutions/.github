@@ -5,9 +5,8 @@ Um PULL REQUEST é um pedido para que suas alterações sejam mescladas com o c�
 
 Para fazer sua PR, é preciso atualizar os seus diretórios locais (que ficam na sua máquina).
 
-
-
-### Atualizando os repositórios locais
+#
+### 🤖 Atualizando os repositórios locais
 
 - Mude para a 'main' e atualize 
 ```shell
@@ -16,7 +15,7 @@ git checkout main
 git pull origin main
 ```
 
-### Criando uma Branch
+### 🤖 Criando uma Branch
 
 Com a **MAIN** atualizada, é necessário criar uma nova branch a cada **task** que receber, pois é nela que serão feitas as funcionalidades/alterações.
 
@@ -33,7 +32,8 @@ O asterisco ( * ) indica em qual BRANCH você está:
 
 - Após criar e verificar que relamente está na branch certa, você pode começar a sua task.
 
-### Salvando as alterações feitas
+#
+### 🤖 Salvando as alterações feitas
 
 Quando finalizr a sua task, será necessário salvar as alterações e subir para o repositório principal.
 
@@ -56,7 +56,8 @@ git push origin reponsividade-site
 
 ![Logo](https://media.discordapp.net/attachments/1012820065177043015/1210739881169657918/image.png?ex=65eba862&is=65d93362&hm=949a223c087e35884dd229be2c2fd5fe73948f30a70744a4177b9f47ac3a8217&=&format=webp&quality=lossless&width=613&height=358)
 
-### Criando a PR no Github
+#
+### 🤖 Criando a PR no Github
 
 - Entre no Github e vá no resposítório que você fez as alterações. Caso tenha aparecido essa mensagem amarela, é porque deu tudo certo. Clique em "Compare & Pull Request":
 
