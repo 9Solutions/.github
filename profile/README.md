@@ -17,8 +17,8 @@ Seu trabalho na palma da mão.
 - [@eduufreire](https://www.github.com/eduufreire)
 - [@DanielleMunakata](https://github.com/DanielleMunakata)
 - [@Thigos](https://github.com/Thigos)
-- [@eduufreire](https://www.github.com/eduufreire)
-- [@eduufreire](https://www.github.com/eduufreire)
-- [@eduufreire](https://www.github.com/eduufreire)
+- [@ArthurDPaula](https://github.com/ArthurDPaula)
+- [@joobrandao ](https://github.com/joobrandao)
+- [@danmrqs](https://github.com/danmrqs)
 
 
