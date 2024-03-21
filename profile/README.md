@@ -22,8 +22,8 @@ Seu trabalho na palma da mão. 👋
 ![Github Badge](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)<br>
 
  <h3>Status do Projeto:</h3>
- ![Status](https://img.shields.io/badge/Status_do_projeto-Em_Andamento-yellow)<br>
-
+![Status](https://img.shields.io/badge/Status_do_projeto-Em_Andamento-yellow)<br>
+  
  <h2>Nossos Projetos: </h2>
 
 <h3> Projeto Caixa de Sapato: <img src="https://static.wixstatic.com/media/ee1977_e673de4fc9064326b1237eccef3571fe~mv2.png/v1/fill/w_341,h_336,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/caixa%20copy_edited.png" height="30px"></h3>
