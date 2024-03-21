@@ -1,8 +1,7 @@
 <h1>Nine Solutions <img src="https://github.com/9Solutions/site_institucional/blob/main/assets/img/9logo.png"  height="30px"></h1>
- Seu trabalho na palma da mão. 👋
+# <h2>Seu trabalho na palma da mão. 👋</h2>
 
 <br><p>Na 9 Solutions, acreditamos que a tecnologia deve ser uma ferramenta para o empoderamento, não um obstáculo. Por isso, oferecemos soluções personalizadas para automatizar tarefas, organizar seus processos, melhorar a comunicação e facilitar o acesso aos seus dados. </p><br>
-
 
  <h2> Links Importantes: </h2>
 
@@ -11,7 +10,7 @@
  - [Políticas de Criação de PR](https://github.com/9Solutions/.github/blob/main/criando-uma-pr.md)
  - [Corrigindo uma Pull Request](https://github.com/9Solutions/.github/blob/main/corrigindo-pr.md)<br>
 
-# <h3>Tecnologias utilizadas:</h3><br>
+ <h3>Tecnologias utilizadas:</h3><br>
 
 ![Github Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Github Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,7 +21,7 @@
 ![Github Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)<br>
 
-# <h3>Status do Projeto:</h3><br>
+ <h3>Status do Projeto:</h3><br>
  ![Status](https://img.shields.io/badge/Status_do_projeto-Em_Andamento-yellow)<br>
 
  <h2>Nossos Projetos: </h2>
