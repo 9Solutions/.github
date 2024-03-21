@@ -3,7 +3,7 @@ Seu trabalho na palma da mão. 👋
 
 <br><p>Na 9 Solutions, acreditamos que a tecnologia deve ser uma ferramenta para o empoderamento, não um obstáculo. Por isso, oferecemos soluções personalizadas para automatizar tarefas, organizar seus processos, melhorar a comunicação e facilitar o acesso aos seus dados. </p><br>
 
- <h2> Links Importantes: </h2>
+ <h3> Links Importantes: </h3>
 
  - [Dicionário do GitHub](https://gist.github.com/victorsenam/8580499)
  - [Política de Nomenclaturas](https://github.com/9Solutions/.github/blob/main/convencoes.md)
