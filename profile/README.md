@@ -1,5 +1,5 @@
 <h1>Nine Solutions <img src="https://github.com/9Solutions/site_institucional/blob/main/assets/img/9logo.png"  height="30px"></h1>
-# <h2>Seu trabalho na palma da mão. 👋</h2>
+<h2>Seu trabalho na palma da mão. 👋</h2>
 
 <br><p>Na 9 Solutions, acreditamos que a tecnologia deve ser uma ferramenta para o empoderamento, não um obstáculo. Por isso, oferecemos soluções personalizadas para automatizar tarefas, organizar seus processos, melhorar a comunicação e facilitar o acesso aos seus dados. </p><br>
 
