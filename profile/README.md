@@ -32,7 +32,8 @@ Seu trabalho na palma da mão. 👋
   
  <h2>Nossos Projetos: </h2>
 
-<h3> Projeto Caixa de Sapato: <img src="https://static.wixstatic.com/media/ee1977_e673de4fc9064326b1237eccef3571fe~mv2.png/v1/fill/w_341,h_336,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/caixa%20copy_edited.png" height="30px"></h3>
+<img src="https://static.wixstatic.com/media/ee1977_e673de4fc9064326b1237eccef3571fe~mv2.png/v1/fill/w_341,h_336,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/caixa%20copy_edited.png" height="30px"></h3>
+<h3> Projeto Caixa de Sapato:</h3>
 <p>Mobilizam pessoas de todas as idades, em Escolas, Igrejas e Empresas a montarem “Caixas de Sapato” recheadas de itens e presentes que as crianças necessitam. O Projeto “Caixa de Sapato” representa um jeito diferenciado de você, sua família ou membro da sua organização de demonstrar que se importa com o próximo, ao compartilhar o amor e esperança às crianças carentes em todo país.</p><br> 
 
 👨‍💻 Authors: 
