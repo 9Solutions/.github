@@ -22,7 +22,9 @@ Seu trabalho na palma da mão. 👋
 ![Github Badge](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)<br>
 
  <h3>Status do Projeto:</h3>
-(https://img.shields.io/badge/Status_do_projeto-Em_Andamento-yellow)<br>
+
+   ![Status](https://img.shields.io/badge/Status_do_projeto-Em_Andamento-yellow)
+
   
  <h2>Nossos Projetos: </h2>
 
