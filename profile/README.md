@@ -10,7 +10,7 @@ Seu trabalho na palma da mão. 👋
  - [Políticas de Criação de PR](https://github.com/9Solutions/.github/blob/main/criando-uma-pr.md)
  - [Corrigindo uma Pull Request](https://github.com/9Solutions/.github/blob/main/corrigindo-pr.md)<br>
 
- <h3>Tecnologias utilizadas:</h3>
+ <h3> 🛠 Tecnologias utilizadas:</h3>
 
 ![Github Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Github Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,11 +25,15 @@ Seu trabalho na palma da mão. 👋
 
    ![Status](https://img.shields.io/badge/Status_do_projeto-Em_Andamento-yellow)
 
+  <h3>Idioma:</h3>
+
+   ![Status](https://camo.githubusercontent.com/411c9b53368ad4f52a9d090d3fb4f726194dfb8e028c122bdcf2d0131a414762/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756567652d506f72747567756573652d79656c6c6f77)
+
   
  <h2>Nossos Projetos: </h2>
 
 <h3> Projeto Caixa de Sapato: <img src="https://static.wixstatic.com/media/ee1977_e673de4fc9064326b1237eccef3571fe~mv2.png/v1/fill/w_341,h_336,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/caixa%20copy_edited.png" height="30px"></h3>
 <p>Mobilizam pessoas de todas as idades, em Escolas, Igrejas e Empresas a montarem “Caixas de Sapato” recheadas de itens e presentes que as crianças necessitam. O Projeto “Caixa de Sapato” representa um jeito diferenciado de você, sua família ou membro da sua organização de demonstrar que se importa com o próximo, ao compartilhar o amor e esperança às crianças carentes em todo país.</p><br> 
 
- Authors: 
+👨‍💻 Authors: 
 Copyright ©️ 2024 - [@ArthurDPaula](https://github.com/ArthurDPaula), [@DanielleMunakata](https://github.com/DanielleMunakata),[@danmrqs](https://github.com/danmrqs),[@eduufreire](https://www.github.com/eduufreire),[@joobrandao ](https://github.com/joobrandao),[@Thigos](https://github.com/Thigos)
