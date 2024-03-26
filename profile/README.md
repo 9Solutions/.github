@@ -30,7 +30,7 @@ Seu trabalho na palma da mão. 👋
    ![Status](https://camo.githubusercontent.com/411c9b53368ad4f52a9d090d3fb4f726194dfb8e028c122bdcf2d0131a414762/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756567652d506f72747567756573652d79656c6c6f77)
 
   
- <h2>Nossos Projetos: </h2>
+ <h2>Nossos Beneficiários: </h2>
 
 <img src="https://static.wixstatic.com/media/ee1977_e673de4fc9064326b1237eccef3571fe~mv2.png/v1/fill/w_341,h_336,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/caixa%20copy_edited.png" height="30px"></h3>
 <h3> Projeto Caixa de Sapato:</h3>
