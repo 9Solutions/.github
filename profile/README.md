@@ -1,4 +1,4 @@
-<h1>Nine Solutions <img src="https://github.com/9Solutions/site_institucional/blob/main/assets/img/9logo.png"  height="30px"></h1>
+<h1>Nine Solutions</h1>
 Seu trabalho na palma da mão. 👋
 
 <br><p>Na 9 Solutions, acreditamos que a tecnologia deve ser uma ferramenta para o empoderamento, não um obstáculo. Por isso, oferecemos soluções personalizadas para automatizar tarefas, organizar seus processos, melhorar a comunicação e facilitar o acesso aos seus dados. </p><br>
@@ -22,13 +22,8 @@ Seu trabalho na palma da mão. 👋
 ![Github Badge](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)<br>
 
  <h3>Status do Projeto:</h3>
-
-   ![Status](https://img.shields.io/badge/Status_do_projeto-Em_Andamento-yellow)
-
-  <h3>Idioma:</h3>
-
-   ![Status](https://camo.githubusercontent.com/411c9b53368ad4f52a9d090d3fb4f726194dfb8e028c122bdcf2d0131a414762/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756567652d506f72747567756573652d79656c6c6f77)
-
+ 
+ <img src="https://img.shields.io/badge/Status_do_projeto-Em_Andamento-yellow" alt="alternatetext">
   
  <h2>Nossos Beneficiários: </h2>
 
